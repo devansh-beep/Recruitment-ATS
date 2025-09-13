@@ -1,0 +1,36 @@
+⚡ Phase 1: Problem Understanding & Industry Analysis
+
+🔹 Requirement Gathering
+
+. Need for a centralized platform to manage recruitment activities.
+. Automating candidate lifecycle from application to onboarding.
+. Ability to parse and store CVs directly in Salesforce.
+. Provide interviewers with structured feedback forms.
+. Job board integration for posting and receiving applications.
+
+🔹 Stakeholder Analysis
+
+. HR Managers – Monitor recruitment pipeline, analyze hiring metrics.
+. Recruiters – Post jobs, manage applications, shortlist candidates.
+. Interviewers – Submit structured feedback after interviews.
+. Candidates – Apply via job boards/portals and track status.
+
+🔹 Business Process Mapping
+
+. Job requisition creation by HR.
+. Job posting on integrated boards (LinkedIn, Naukri, Indeed).
+. Candidates apply → CV parsing into Salesforce.
+. Recruiter screens applicants & schedules interviews.
+. Interviewer provides structured feedback inside Salesforce.
+. Final decision → Offer rolled out → Candidate onboarding.
+
+🔹 Industry-specific Use Case Analysis
+
+. Recruitment industry demands speed, efficiency, and data-driven decisions.
+. Traditional ATS solutions lack custom automation and Salesforce-native integration.
+. This system leverages Salesforce automation, analytics, and AppExchange apps to fill that gap.
+
+🔹 AppExchange Exploration
+
+. LinkedIn Jobs Integration – For job board sync.
+. Dashboards & Analytics Apps – For HR metrics.
